@@ -14,7 +14,7 @@ Add some style blocks below this line to style the card.
 */
 section {
     box-sizing: border-box;
-    border: solid 1px rgb(243, 1, 1); 
+    bord er: solid 1px rgb(243, 1, 1); 
     width: 50vh;
     height: 50vh;   
     padding: 10px;
